@@ -18,6 +18,10 @@
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
+.idea/**/markdown-navigator.xml
+.idea/**/checkstyle-idea.xml
+.idea/**/markdown-navigator/
+
 
 # Gradle
 .idea/**/gradle.xml
