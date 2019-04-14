@@ -1,0 +1,2 @@
+# sequeria
+Multicursor functionality extension
