@@ -1,5 +1,5 @@
 <idea-plugin>
-  <id>com.github.andreysum.Sequeria</id>
+  <id>com.github.andreysum.sequeria</id>
   <name>Sequeria</name>
   <version>1.0</version>
   <vendor email="andreysum@gmail.com">Andrey Sumtsov</vendor>
