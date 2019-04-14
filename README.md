@@ -1,2 +1,2 @@
-# sequeria
-Multicursor functionality extension
+# Sequeria
+Work with sequences functionality extension

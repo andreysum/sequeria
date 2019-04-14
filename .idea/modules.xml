@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/IntelliJ IDEA Community Edition IC (java version 8)/IntelliJ IDEA Community Edition IC (java version 8).iml" filepath="$PROJECT_DIR$/IntelliJ IDEA Community Edition IC (java version 8)/IntelliJ IDEA Community Edition IC (java version 8).iml" />
       <module fileurl="file://$PROJECT_DIR$/sequeria.iml" filepath="$PROJECT_DIR$/sequeria.iml" />
     </modules>
   </component>
